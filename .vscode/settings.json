@@ -1,0 +1,5 @@
+{
+    "editor.pasteAs.enabled": true,
+    "terminal.integrated.ignoreBracketedPasteMode": false,
+    "editor.pasteAs.showPasteSelector": "afterPaste"
+}
